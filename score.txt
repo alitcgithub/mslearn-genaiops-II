@@ -1,0 +1,19 @@
+================================================================================
+Results saved to: C:\Users\Admin\mslearn-genaiops-II\experiments\v1_instructions.txt\agent-responses.json
+Total tests: 5
+Total tokens used: 11412
+
+================================================================================
+Results saved to: C:\Users\Admin\mslearn-genaiops-II\experiments\v2_instructions.txt\agent-responses.json
+Total tests: 5
+Total tokens used: 11573
+
+================================================================================
+Results saved to: C:\Users\Admin\mslearn-genaiops-II\experiments\v3_instructions.txt\agent-responses.json
+Total tests: 5
+Total tokens used: 12900
+
+================================================================================
+Results saved to: C:\Users\Admin\mslearn-genaiops-II\experiments\v4_optimized_concise.txt\agent-responses.json
+Total tests: 5
+Total tokens used: 11416
